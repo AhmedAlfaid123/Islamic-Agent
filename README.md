@@ -9,7 +9,7 @@ Islamic-Agent is a tool that enables you to search for prophetic hadiths from re
 - **Semantic Search**: Uses advanced NLP techniques to understand your query and find the most relevant hadiths.
 - **Book Filtering**: Filter search results by specific books like Sahih Muslim, Bukhari, Muwatta Malik, and Musnad Ahmad.
 - **Re-ranking Results**: Enhances the accuracy of search results to provide the most reliable hadiths.
-
+- **Search on web**: Uses serper api to search on web and do webscraping for results.
 ## Usage
 
 To use Islamic-Agent, simply run the `islamic_agent.py` script. You will be prompted to enter your query. The agent will then search through the hadiths and return relevant results.
