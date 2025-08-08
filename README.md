@@ -16,9 +16,12 @@ To use Islamic-Agent, simply run the `islamic_agent.py` script. You will be prom
 
 ## Requirements
 
-- Python 3.x
-- NLP libraries (e.g., NLTK, spaCy)
-- Semantic search libraries (e.g., Transformers)
+- Python3.x
+- LangChain for building AI-powered applications
+- LangChain Community for additional features and utilities
+- LangChain Google GenAI for generative AI capabilities
+- Gradio for creating interactive chat interfaces
+- Google Serper API for web search functionalities
 
 ## Contributing
 
@@ -26,8 +29,4 @@ Contributions are welcome! If you would like to add more features, improve the s
 
 ## License
 
-Islamic-Agent is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## Acknowledgments
-
-Special thanks to the developers of the NLP and semantic search libraries used in this project.
+Islamic-Agent is licensed under the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
